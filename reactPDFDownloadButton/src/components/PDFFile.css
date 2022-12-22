@@ -1,0 +1,7 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 5px;
+    background-color: hsl(210, 73%, 41%);
+    font-size: 13px;
+  }
